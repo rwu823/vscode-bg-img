@@ -11,9 +11,9 @@ Add in your `settings.json`.
 ```json
 "background.useDefault": false,
 "background.customImages": [
-    "https://cdn.rawgit.com/rwu823/vscode-bg-img/master/images/17/baby-white.png,
-    "https://cdn.rawgit.com/rwu823/vscode-bg-img/master/images/17/baby-black.png,
-    ...
+    "https://cdn.rawgit.com/rwu823/vscode-bg-img/master/images/17/baby-white.png",
+    "https://cdn.rawgit.com/rwu823/vscode-bg-img/master/images/17/baby-black.png",
+    "..."
 ],
 "background.style": {
     "background-position": "95% 95%",
