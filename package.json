@@ -1,0 +1,8 @@
+{
+  "name": "vscode-bg-img",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rwu823/vscode-bg-img.git",
+  "author": "RoCky Wu <rocky823@gmail.com>",
+  "license": "MIT"
+}
